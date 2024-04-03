@@ -25,17 +25,12 @@
   <span align="left">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
       <a href="https://github.com/Decade-qiu" target="_blank">
-        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=lukasmayer83593@gmail.com">
+        <img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=xx">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
       <a href="https://github.com/Decade-qiu" target="_blank">
         <img src="https://img.shields.io/badge/github-white?style=social&logo=github&label=Decade-qiu">
-      </a>
-    </p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-      <a href="https://www.zhihu.com/people/chou-yu-80-33" target="_blank">
-        <img src="https://img.shields.io/badge/Zhihu-blue?style=social&logo=zhihu&label=Decade">
       </a>
     </p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
